@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My program</string>
+    <string name="choose_data">Выбор даты</string>
+    <string name="ready">Готово</string>
+</resources>
